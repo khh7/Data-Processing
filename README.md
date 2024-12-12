@@ -1,7 +1,7 @@
 # Data Processing and Storage Assignment
 
 ## Overview
-This project implements an in-memory key-value database with transaction support. It allows atomic operations within transactions, ensuring data integrity.
+This project implements an in-memory key-value database with transaction support. Transactions allow “all or nothing” updates to databases to prevent dirty writes. Features include begin_transaction, put, get, commit, and rollback, which are essential for managing consistent state in the database.
 
 ## Instructions
 1. Install Python.
