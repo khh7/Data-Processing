@@ -6,7 +6,7 @@ This project implements an in-memory key-value database with transaction support
 ## Instructions
 1. Install Python.
 2. Clone the repository or download inmemorydb.py to your local machine.
-3. If you want to test the example usage provided in the instructions, uncomment the if __name__ == "__main__": code block in inmemorydb.py.
+3. If you want to test the example usage provided in the instructions, uncomment the `if __name__ == "__main__":` code block in inmemorydb.py.
 4. Run `python inmemorydb.py`.
 
 ## Future Improvements
