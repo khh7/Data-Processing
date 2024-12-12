@@ -1,4 +1,4 @@
-# In-Memory Database with Transaction Support
+# Data Processing and Storage Assignment
 
 ## Overview
 This project implements an in-memory key-value database with transaction support. It allows atomic operations within transactions, ensuring data integrity.
